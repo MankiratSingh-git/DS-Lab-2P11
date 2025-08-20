@@ -1,0 +1,2 @@
+ANS3.
+The output will be 1000 as given array contains only one element i.e 1 at arr[0]  and all other elements arr[1] to arr[4] are therefore automatically initialized to 0 as they are unassigned array elements.
