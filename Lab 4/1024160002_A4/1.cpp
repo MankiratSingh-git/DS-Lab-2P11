@@ -94,6 +94,7 @@ int main(){
     cin >> x;
     Q.enqueue(x);
     break;
+    case 2:
     cout << Q.dequeue() << endl;
     break;
     case 3:
