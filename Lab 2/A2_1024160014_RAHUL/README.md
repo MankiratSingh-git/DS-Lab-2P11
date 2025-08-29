@@ -1,4 +1,4 @@
-﻿# DS-Lab-2P11
+﻿# DS-Lab-1P11
 
 1. Fork repo on GitHub
 
@@ -14,4 +14,3 @@
 
 
 7. Make a pull request on GitHub
-
