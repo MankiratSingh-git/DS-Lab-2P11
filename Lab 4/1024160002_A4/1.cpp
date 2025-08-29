@@ -77,12 +77,12 @@ class Queue{
 int main(){
 
   int size;
-  cout << "Initialization:\n Size: ";
+  cout << "Initialization:\nSize: ";
   cin >> size;
   Queue Q(size);
 
   while(true){
-  cout << "MENU\n1.Enqueue\n2. Dequeue\n3. IsEmpty\n4. IsFull\n5. Display\n6. Peek\n 7. EXIT"<< endl;
+  cout << "MENU\n1.Enqueue\n2. Dequeue\n3. IsEmpty\n4. IsFull\n5. Display\n6. Peek\n7. EXIT"<< endl;
   cout << "Enter Choice: ";
   int choice;
   cin >> choice;
